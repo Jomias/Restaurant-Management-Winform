@@ -1,0 +1,6 @@
+D:\Tai_lieu_dai_hoc\Nam_3\Ki_1\HK5\Lập trình trực quan\BTL\QuanLyNhaHangTCT\DTO\bin\Debug\DTO.dll
+D:\Tai_lieu_dai_hoc\Nam_3\Ki_1\HK5\Lập trình trực quan\BTL\QuanLyNhaHangTCT\DTO\bin\Debug\DTO.pdb
+D:\Tai_lieu_dai_hoc\Nam_3\Ki_1\HK5\Lập trình trực quan\BTL\QuanLyNhaHangTCT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Tai_lieu_dai_hoc\Nam_3\Ki_1\HK5\Lập trình trực quan\BTL\QuanLyNhaHangTCT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Tai_lieu_dai_hoc\Nam_3\Ki_1\HK5\Lập trình trực quan\BTL\QuanLyNhaHangTCT\DTO\obj\Debug\DTO.dll
+D:\Tai_lieu_dai_hoc\Nam_3\Ki_1\HK5\Lập trình trực quan\BTL\QuanLyNhaHangTCT\DTO\obj\Debug\DTO.pdb

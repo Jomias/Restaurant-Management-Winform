@@ -1,0 +1,2 @@
+D:\Tai_lieu_dai_hoc\Nam_3\Ki_1\HK5\Lập trình trực quan\BTL\QuanLyNhaHangTCT\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Tai_lieu_dai_hoc\Nam_3\Ki_1\HK5\Lập trình trực quan\BTL\QuanLyNhaHangTCT\obj\Debug\BUS.csproj.CoreCompileInputs.cache
