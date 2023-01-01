@@ -1,4 +1,4 @@
-# Quản lý nhà hàng đơn giản bao gồm:
+# Quản lý nhà hàng bao gồm:
   + Bufinu Framework
   + Guna UI
   + Quản lý hóa đơn theo bàn ăn
